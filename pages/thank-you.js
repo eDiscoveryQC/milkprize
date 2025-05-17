@@ -37,7 +37,7 @@ export default function ThankYou() {
                 <strong>Ship it back:</strong> Use the prepaid label to send your sample to our partner lab.
               </li>
               <li>
-                <strong>Get your results:</strong> We'll email you a secure nutrient report within 3–5 business days.
+                <strong>Get your results:</strong> We&apos;ll email you a secure nutrient report within 3–5 business days.
               </li>
             </ul>
           </Box>
