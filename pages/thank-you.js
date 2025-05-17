@@ -1,4 +1,4 @@
-// /pages/thank-you.js — Post-order Instructions Page
+// /pages/thank-you.js — Post-order Instruction Page
 import Head from 'next/head';
 import { Box, Container, Typography, Button, Divider, Stack } from '@mui/material';
 import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
